@@ -1,0 +1,19 @@
+{
+  "name": "d3.tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/bst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegdeashwin/d3.tree.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hegdeashwin/d3.tree/issues"
+  },
+  "homepage": "https://github.com/hegdeashwin/d3.tree#readme"
+}
